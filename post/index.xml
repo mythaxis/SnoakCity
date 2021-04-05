@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Section index page on Sketches of Snoak City</title>
+    <link>/post/</link>
+    <description>Recent content in Section index page on Sketches of Snoak City</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 05 Apr 2021 16:21:56 +0100</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Story 1</title>
+      <link>/post/post/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et enim consequat, iaculis massa a, vehicula lacus. Suspendisse vitae pharetra mi. Curabitur sagittis orci ac rhoncus gravida. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In hac habitasse platea dictumst. Sed vehicula commodo dolor, ac aliquam lacus gravida in. Sed nunc neque, interdum quis convallis sit amet, lacinia non eros. Morbi risus odio, malesuada at mi nec, commodo lacinia mauris.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>/post/test/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test2</title>
+      <link>/post/test2/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
