@@ -1,0 +1,37 @@
+# Deploy to github pages
+name: Publish to Github pages
+
+on:
+  push:
+    branches:
+      - master  # Set branch to deploy html to
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v2
+      - name: Checkout submodules
+        run: git submodule update --init --recursive
+
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - run: npm i -g postcss postcss-cli autoprefixer@9.8.6
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build hugo site
+        run: hugo -DF
+
+      - name: Deploy ./docs to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
