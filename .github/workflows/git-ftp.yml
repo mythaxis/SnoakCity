@@ -7,7 +7,7 @@ on:
       logLevel:
         description: 'Whatcha doing?'     
         required: true
-        default: 'deploying workspace inni'
+        default: 'Deploying SnoakCity to production'
 
 jobs:
   printInputs:
