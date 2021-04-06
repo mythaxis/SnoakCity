@@ -164,3 +164,18 @@ footer, .site-nav {
 .site-footer {
   margin-bottom: 1rem;
 }
+
+
+/* additions */
+/* TEI styles */
+glyph {
+    font-weight: 600;
+    font-size: 3em;
+    float: left;
+    line-height: 1em;
+    padding-top: 0;
+    padding-right: 0.1em;
+}
+glyph.small {
+    font-size: 2em;
+}
