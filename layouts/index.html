@@ -9,8 +9,7 @@
     {{ partial "header.html" . }}
 
     <section>
-
-      {{ range (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+      {{ range sort (where site.RegularPages "Type" "in" site.Params.mainSections) "File.Path" }}
       <article>
         {{ .Render "list-item-expanded" }}
       </article>
