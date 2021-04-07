@@ -80,7 +80,7 @@ Her eyes abruptly re-focused. Now what on earth had prompted that surge of nosta
 
 
 
-{{<glyph>}}T{{</glyph>}}he Follard Multingale had been moved to a repair bench, awaiting the expert attention of Mosper Belk, [a retired airship technician](12 Atacrast.md) who also enjoyed music, horology and horticulture. He had almost finished work restoring the simulated croak of a mechanical toad, a repair job for old Crojent in Yarp Street, but he was distracted by the voices of Harvis Drile and Strappy Underfox from the adjoining sorting department.
+{{<glyph>}}T{{</glyph>}}he Follard Multingale had been moved to a repair bench, awaiting the expert attention of Mosper Belk, [a retired airship technician]({{< ref "12 Atacrast.md" >}}) who also enjoyed music, horology and horticulture. He had almost finished work restoring the simulated croak of a mechanical toad, a repair job for old Crojent in Yarp Street, but he was distracted by the voices of Harvis Drile and Strappy Underfox from the adjoining sorting department.
 
 "…not what I meant, Harvis. Anyway, they won't bend enough to fit comfortably. And there's no point in supplying any of the older ones, because—"
 

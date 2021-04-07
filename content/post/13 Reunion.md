@@ -30,7 +30,7 @@ There were cries of “Here he is!”, “Hey, Ruckney!” and “It’s the Shr
 
 Cendrel was diffident about venturing into the shop, because it still evoked an uncomfortable early memory of being terrified by a woman shouting over the shrill yelps of her uncontrolled dog. She felt most at ease outdoors among the plants, for which she felt a secret affinity. At school she discovered that she had a flair for design, and later she grew adept at the decorative side of the business; her floral arrangements were instinctively balanced in terms of colour, scent and composition, but she yearned for the freedom to be able to work on a grander scale. Eventually she prevailed on her parents to let her apply for the vocational course in landscape gardening offered by Sparagulan College in association with the botanical gardens in Garrible Park.
 
-The euphoria of being accepted for the course was tempered by anxiety about moving to Snoak City [and having to cope with strangers](16 Eavesdropping at Quoils.md). From the accommodation list approved by the College, she selected the address closest to the park, and in due course made the acquaintance of Ma Wheggs, that least intimidating of landladies. Within a week of her arrival the shy girl from Platport had been befriended by another lodger, Tebbi Nemming, a sophisticated research assistant almost a year her senior, who appointed herself Cendrel’s mentor, and in place of the elder sister Cendrel had never known, set about fortifying the younger girl’s self-confidence.
+The euphoria of being accepted for the course was tempered by anxiety about moving to Snoak City [and having to cope with strangers]({{< ref "16 Eavesdropping at Quoils.md" >}}). From the accommodation list approved by the College, she selected the address closest to the park, and in due course made the acquaintance of Ma Wheggs, that least intimidating of landladies. Within a week of her arrival the shy girl from Platport had been befriended by another lodger, Tebbi Nemming, a sophisticated research assistant almost a year her senior, who appointed herself Cendrel’s mentor, and in place of the elder sister Cendrel had never known, set about fortifying the younger girl’s self-confidence.
 
 
 
@@ -72,7 +72,7 @@ Yethne was dismissive. “That’s a crazy idea! The product has to come first. 
 
 “Not once in the two years I was there, but I was only a humble researcher on the fifteenth floor. I believe he spends most of his time in the penthouse guarding his treasures.”
 
-“I’ve heard people saying [Farras Grein](09 The Man with Bronze Hair.md) might be behind it,” said Ma Wheggs. “But no-one seems to know for sure.”
+“I’ve heard people saying [Farras Grein]({{< ref "09 The Man with Bronze Hair.md" >}}) might be behind it,” said Ma Wheggs. “But no-one seems to know for sure.”
 
 “It’s certainly a novel way to make sure everyone knows the product name, whatever it turns out to be, but for it to be successful it would still have to be something that they actually need,” said Sawly.
 
@@ -146,9 +146,9 @@ Sprent motioned him into a less voluptuous seat. "Well, Mr…?”
 
 “It’s not that I’m ashamed, Mr Sprent, and I will never regret my schooling. It’s just that I seem to have exhausted whatever Horm has to offer, and I’m desperate to find a place where I can develop my talents. That’s why I came here.”
 
-Sprent frowned. “Are you expecting me to offer you a job? Without a formal application, without evidence of your specific attainments, and in the palpable absence of previous working experience in [the publishing field](05 Prutt's Game.md)?”
+Sprent frowned. “Are you expecting me to offer you a job? Without a formal application, without evidence of your specific attainments, and in the palpable absence of previous working experience in [the publishing field]({{< ref "05 Prutt's Game.md" >}})?”
 
-Strag looked crestfallen. “I suppose I really didn’t know what to expect, sir. In my mind the firm of Fissile & Sprent has always been, well, a kind of fount of wisdom where I would find answers to my questions. I’m afraid my only working experience has been as editor of the school magazine, but the contributions were not exactly of a high literary standard. I’m an avid reader, and [I believe I can tell when a piece of writing is flawed](18 Feeling the Heat.md). But I’m sure I still have much to learn,” he added hastily.
+Strag looked crestfallen. “I suppose I really didn’t know what to expect, sir. In my mind the firm of Fissile & Sprent has always been, well, a kind of fount of wisdom where I would find answers to my questions. I’m afraid my only working experience has been as editor of the school magazine, but the contributions were not exactly of a high literary standard. I’m an avid reader, and [I believe I can tell when a piece of writing is flawed]({{< ref "18 Feeling the Heat.md" >}}). But I’m sure I still have much to learn,” he added hastily.
 
 “I appreciate your honesty, Mr Wilderfoot. In return I can tell you that we are not conceited enough to regard ourselves as a fount of wisdom, although as you clearly appreciate, we pride ourselves on the quality of our books. My advice to you would be to take yourself down to Sparagulan College, where you will find that for a small fee you could sign up for a useful six-month introductory course in publishing, run by Dirry Tradfern, an old friend of mine. Assuming you are willing to do that, please make an appointment here when you have completed the course, and depending on Tradfern’s assessment, you may well find there will be an opening at Fissile & Sprent for an editorial assistant.” Sprent regarded him benevolently from beneath his bushy grey eyebrows.
 

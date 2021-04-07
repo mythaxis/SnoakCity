@@ -11,13 +11,13 @@ draft: false
 
 Various flapping banners rose intermittently, often lopsidedly, above the milling crowd, suggesting that what may have started with a few malcontents making a specific protest had randomly attracted people with quite different agendas. It was not easy to distinguish genuine protest from undirected exuberance, but the overall mood seemed to be lively rather than belligerent. Even where banners were not in evidence, some individuals appeared to have exploited the occasion by wearing animal masks or silly clothes and indulging in cacophonous chants or a spot of cathartic yelling.
 
-Back at Central Security, CSO Welkin Hofft, watching the images relayed from the recon pod, could see that having filled the square in front of Sparagulan College, tendrils of the crowd now extended westward almost as far as [the Anakalyptoscope](04 Smolehive's Anakalyptoscope.md), south and east towards Garrible Park, and beyond the stadium walls in the direction of Sparrink’s Yard.
+Back at Central Security, CSO Welkin Hofft, watching the images relayed from the recon pod, could see that having filled the square in front of Sparagulan College, tendrils of the crowd now extended westward almost as far as [the Anakalyptoscope]({{< ref "04 Smolehive’s Anakalyptoscope.md" >}}), south and east towards Garrible Park, and beyond the stadium walls in the direction of Sparrink’s Yard.
 
 Some of the banners carried particular messages, although making sense of them posed differing problems for Hofft and his security team:
 
-One of the more professional efforts read *<u>Join the Fight for Gunder’s Bight!</u>*
+One of the more professional efforts read *Join the Fight for Gunder’s Bight!*
 
-***ICE*** **FOR** ***REM*****BLE** ***FOAD!*** proclaimed another, in boldly painted wavering capitals.
+***ICE*** **FOR** ***REM*****BLE*** ***FOAD!*** proclaimed another, in boldly painted wavering capitals.
 
 A third, in a complex decorative script which hinted at a communal effort, simply stated ***Uncle Glussog's Talent Parade***.
 

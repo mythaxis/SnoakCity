@@ -24,7 +24,7 @@ In a note to musicologists, Dudoriac tells us that the structure of the book is 
 
 Prutt's Game by Thyles Dudoriac. 
 
-Pub. [Fissile & Sprent](18 Feeling the Heat.md).
+Pub. [Fissile & Sprent]({{< ref "18 Feeling the Heat.md" >}}).
 
 "Disturbing novel about Game Addiction. A Must read" - Yuma Times
 

@@ -6,7 +6,7 @@ draft: false
 
 {{<glyph>}}A{{</glyph>}}t the insistence of a second arpeggio of descending chimes, Mosper Belk reluctantly put down his book and shuffled into the front hall to peer closely at the wall-screen. It displayed in his doorway the profiled image of an unfamiliar man clad in sombre grey, apart from a jaunty emerald trim at collar and cuffs. He held a slim black case. There was a relaxed dignity about his stance which betokened someone serious and self-assured. Mosper had not been expecting any weekend callers. Intrigued, he opened the door.
 
-“Forgive disturb, esteemed Belk”, the man announced gravely, with a respectful nod. “Hulf Atacrast, day-journeyed from Meheric. Fore-message left [at place of work](06 A Closer Look at Greeming and Trulph.md), but Mr Smirt of Greeming and er… Trelph?”
+“Forgive disturb, esteemed Belk”, the man announced gravely, with a respectful nod. “Hulf Atacrast, day-journeyed from Meheric. Fore-message left [at place of work]({{< ref "06 A Closer Look at Greeming and Trulph.md" >}}), but Mr Smirt of Greeming and er… Trelph?”
 
 “Trulph.”
 
@@ -70,7 +70,7 @@ Atacrast asked if he might have a glass of water, but was readily persuaded by h
 
 “That was the last time anyone at the Institute ever saw or heard from Cravian Drowl.”
 
-There was nothing of obvious significance left in the Director’s office other than an ashy heap of burned paper in the ceramic incinerazer. It was assumed that Drowl had taken his paperweight with him. It was not found in his private rooms, whose abandoned contents apparently offered no clue as to his possible whereabouts. This posed a quandary for the investigative team, a trio of burly detechs and a forensic specialist from [Snoak Central](15 Uncle Glussog's Talent Parade, and Other Matters.md), who had been called in when the Director failed to return.
+There was nothing of obvious significance left in the Director’s office other than an ashy heap of burned paper in the ceramic incinerazer. It was assumed that Drowl had taken his paperweight with him. It was not found in his private rooms, whose abandoned contents apparently offered no clue as to his possible whereabouts. This posed a quandary for the investigative team, a trio of burly detechs and a forensic specialist from [Snoak Central]({{< ref "15 Uncle Glussog's Talent Parade, and Other Matters.md" >}}), who had been called in when the Director failed to return.
 
 The entire workforce was questioned with discreet efficiency. The lately dismissed secretary, the quietly dependable Seepy Trasset, had been duly traced to her shared apartment above a bakery in Lower Meheric. She was persuaded to overcome residual feelings of loyalty, and asked to describe anything unusual about the Director’s behaviour in the weeks preceding her dismissal. Seepy told how he had become strangely secretive about the filing of paperwork, and prevented her accessing even material she had previously handled. She confirmed that he had grown increasingly remote and uncommunicative, and that while genuinely concerned about his health she was actually more relieved than disappointed when he told her she was no longer required.
 

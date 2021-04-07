@@ -12,7 +12,7 @@ draft: false
 
 {{<glyph>}}W{{</glyph>}}ith a grunt of distaste Strag flung the book across the room. Propelled by a casual flick of the wrist it landed accurately in the safety of an armchair. He had an instinctive feeling for the right trajectory, perhaps related to his youthful practice of hurling various objects (some edible) to be intercepted by an apparently tireless dog.
 
-This indoor launch of the papery embodiment of Seff Haldegath, writer of a succession of spy thrillers, afforded Strag a frisson of satisfaction, almost bereft of guilt. Old Sprent would be appalled to see [his young editorial assistant](13 Reunion.md) treating an actual book with such disrespect, no matter how banal its content, or how brief its flight.
+This indoor launch of the papery embodiment of Seff Haldegath, writer of a succession of spy thrillers, afforded Strag a frisson of satisfaction, almost bereft of guilt. Old Sprent would be appalled to see [his young editorial assistant]({{< ref "13 Reunion.md" >}}) treating an actual book with such disrespect, no matter how banal its content, or how brief its flight.
 
 Strag had picked up the book cheaply at Morg’s Bookery in the market, one of his and Yethne’s favourite haunts. Only the previous week they had been lucky enough to find a copy of Parel Tillon’s *Hoarse Whispers*, unusually bound, he supposed as a student exercise, in textured whent, with beautifully marbled endpapers. This week’s impulsive purchase, made while Yethne was away at an educational conference, he had found to be less rewarding.
 
@@ -38,7 +38,7 @@ What would be most satisfying, he reflected, would be to take a Haldegath novel,
 
 He would need to change the names, of course. The reckless Statman Gyme, product of a clandestine liaison between a flotel sanitation officer and a part-time waitress, would now become Scover Buron, son of a feisty woman journalist and an absentee but distinguished father whose undisclosed identity would be crucial to the revised plot. Silki Lissom, the ditzy, fun-loving art therapist with a propensity for finding herself in life-threatening situations, will be replaced by the succulent but enigmatic Sireen Thrist, a research chemist with a range of skills not restricted to scientific enquiry.
 
-There were some vestiges of an earlier age with which Strag Wilderfoot was oddly comfortable, in spite of the many modern refinements at his disposal. He preferred the feel of flowing water to hygienic cloud-sprays, had no time for [ParaPets](01 The Smile of Paeony 3rdfield.md), however sophisticated, and although he had ready access to interactive devices, he relished the tactile intimacy of pen and paper. Turning to a fresh page with a firm sense of purpose, he wrote:
+There were some vestiges of an earlier age with which Strag Wilderfoot was oddly comfortable, in spite of the many modern refinements at his disposal. He preferred the feel of flowing water to hygienic cloud-sprays, had no time for [ParaPets]({{< ref "01 The Smile of Paeony 3rdfield.md" >}}), however sophisticated, and although he had ready access to interactive devices, he relished the tactile intimacy of pen and paper. Turning to a fresh page with a firm sense of purpose, he wrote:
 
 > *Firemonger Renewed. By S.W.*
 

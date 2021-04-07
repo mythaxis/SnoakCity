@@ -4,7 +4,7 @@ date: 2021-04-05
 draft: false
 ---
 
-{{<glyph>}}G{{</glyph>}}awl and Rambersack were, as ever, in search of new sources of inspiration. Still of persistently limited renown, they were shielded from adverse criticism of [their modest contributions to the world’s poetic corpus](16 Eavesdropping at Quoils.md) by sheer self-belief and dogged enthusiasm. They had dabbled with myths, fulminated against biotaps, teased out slender shades of meaning where others might have shrugged with indifference. Now they had set themselves the daunting challenge of summoning their Muse from within the pages of *The City Enwitter*, one of the flashy fabloids disseminated by Morton Quanderpyre’s media empire.
+{{<glyph>}}G{{</glyph>}}awl and Rambersack were, as ever, in search of new sources of inspiration. Still of persistently limited renown, they were shielded from adverse criticism of [their modest contributions to the world’s poetic corpus]({{< ref "16 Eavesdropping at Quoils.md" >}}) by sheer self-belief and dogged enthusiasm. They had dabbled with myths, fulminated against biotaps, teased out slender shades of meaning where others might have shrugged with indifference. Now they had set themselves the daunting challenge of summoning their Muse from within the pages of *The City Enwitter*, one of the flashy fabloids disseminated by Morton Quanderpyre’s media empire.
 
 They were sitting, not at their customary table in Quoils, but in a corner of the smart upper lounge of their local Podport. Other than the view through the gently curved windows and the sporadic movement of passengers the lounge was insulated from events outside; it was a public place where, with minimal expenditure, they could enjoy more or less undisturbed privacy, and conveniently, where they had ready access to abandoned copies of that same daily fabloid.
 
@@ -14,7 +14,7 @@ Having cast off their hats and capes (a rare concession to the comfortable ambie
 
 > **MISSING HEAD SPOTTED IN FRITTER**
 >
-> Cravian Drowl, who went missing inexplicably more than thirty years ago, is reported to have been seen by a fellow angler fishing on the south bank of the Heff in the village of Fritter. Drowl was [Director of the Institute of Aeronautics](12 Atacrast.md) in Meheric, and was believed at the time to have been under financial strain. His former secretary, Mrs C P Greng (née Trasset), now a producer on the show ‘[Tessa’s Guests](14 Padratheleon's Ghosts.md)’, commented “I remember him as being a rather solitary man, but he was very partial to fish.” [Assistant CSO at Censec](15 Uncle Glussog's Talent Parade, and Other Matters.md), Sevrel Possins, stated “We have had multiple possible sightings of Mr Drowl over the years, both here and abroad. Our case-file remains open.”
+> Cravian Drowl, who went missing inexplicably more than thirty years ago, is reported to have been seen by a fellow angler fishing on the south bank of the Heff in the village of Fritter. Drowl was [Director of the Institute of Aeronautics]({{< ref "12 Atacrast.md" >}}) in Meheric, and was believed at the time to have been under financial strain. His former secretary, Mrs C P Greng (née Trasset), now a producer on the show ‘[Tessa’s Guests]({{< ref "14 Padratheleon's Ghosts.md" >}})’, commented “I remember him as being a rather solitary man, but he was very partial to fish.” [Assistant CSO at Censec]({{< ref "15 Uncle Glussog's Talent Parade, and Other Matters.md" >}}), Sevrel Possins, stated “We have had multiple possible sightings of Mr Drowl over the years, both here and abroad. Our case-file remains open.”
 
 
 
@@ -28,7 +28,7 @@ There were other reports to consider. They hunched over their respective copies,
 >
 > 
 >
-> **[BALLOON VENDORS CLASH WITH WOHOKO FANS](17 Pranswat Passes Through.md)**
+> **[BALLOON VENDORS CLASH WITH WOHOKO FANS]({{< ref "17 Pranswat Passes Through.md" >}})**
 >
 > 
 >
@@ -162,7 +162,7 @@ Legger was finding it hard to concentrate. He had hit an obstacle straight away.
 
 “It’s no use,” he sighed. “Once I start thinking about her I get a hormone rush.”
 
-They decided that a visit to the [Art Market](11 Farny's Place.md) should be a priority, and might help to restore Legger’s emotional equilibrium. Meanwhile, they had several more pages to study.
+They decided that a visit to the [Art Market]({{< ref "11 Farny's Place.md" >}}) should be a priority, and might help to restore Legger’s emotional equilibrium. Meanwhile, they had several more pages to study.
 
 A faint shudder jarred the Podport building, hardly enough to disturb the comfort of those within, unless they happened to be looking out of a west-facing window, from where a dark billowing plume could be seen rising in the distance. In dwindling perspective an irregular procession of emergency vehicles could be seen heading westward, towards the uncultivated scrubland beyond the Podport grounds. The clashing whine of their sirens was inaudible through the glass.
 
