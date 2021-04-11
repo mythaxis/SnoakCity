@@ -112,7 +112,7 @@ Both graduates of Sparagulan College, this dedicated pair had joined the firm in
 
 Selm tried to read her teasing smile, decided it was attractive but oddly distracting, so put a hand over his eyes in order to concentrate. "'Self-locking' seems feasible, but I'm not sure that 'retractable' is a necessary option, so I'll say no to that one. 'Quatrefoil' sounds rather too fancy, too ornamental for such a simple device. I'll go for 'self-locking' only."
 
-"Commendable logic, Mr Irringer," said Raeni. "'Retractable' was a bluff. But so was 'self-locking'. As you said it's a simple device, basically a plain brass rod. And 'quatrefoil' is certainly fancier, since it applies to the design of a decorative button - a totally different product, but also listed as a trellis pin."
+"Commendable logic, Mr Irringer," said Raeni. "'Retractable' was a bluff. But so was 'self-locking'. As you said it's a simple device, basically a plain brass rod. And 'quatrefoil' is certainly fancier, since it applies to the design of a decorative button—a totally different product, but also listed as a trellis pin."
 
 "For someone whose integrity I admire, that is truly devious. A button, indeed. Well, the earliest known buttons were of course decorative rather than functional, fashioned from sea-shells. Bronze Age." She raised an eyebrow. "Excavations. Chandus Valley," he explained.
 

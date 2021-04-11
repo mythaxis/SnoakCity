@@ -38,9 +38,9 @@ Incautiously pursuing her natural curiosity, Ebby Blates was eventually rewarded
 
 The eyes of Ebby Blates flickered into scanning mode from beneath a spray of brightly-dyed pigeon feathers set with metallic beads and pleated tufts of material that looked like the desiccated carcasses of sea-horses. She could see no-one she knew, but was content enough to eavesdrop on passing conversations as people drifted along the path.
 
-*“…nodded off before the end of the second act, but at least we saw Heb Trogan…”
-“…the one who plays the slatted ghalk?”
-“The very same. He’s* so *good.. And you’ll never guess who was sitting behind us…”*
+*“…nodded off before the end of the second act, but at least we saw Heb Trogan…”*\
+*“…the one who plays the slatted ghalk?”*\
+*“The very same. He’s* so *good.. And you’ll never guess who was sitting behind us…”*
 
 “Crusel, stop dawdling! Yes, you are! Hurry up. If we miss the pod, it’s a long wait until the next one, and then we won’t even have enough time for ‘Hunt the Wugget’ with Manzy.”
 
@@ -48,11 +48,11 @@ The eyes of Ebby Blates flickered into scanning mode from beneath a spray of bri
 
 “… of course I said no. My uncle’s a Detech, and you know how hopelessly unreliable Zole can be. I told him if *that’s* his idea of a sensible plan, take it to [Smatparrox]({{< ref "09 The Man with Bronze Hair.md" >}}) and feed it to a biotap! In any case, what’s…”
 
-*“… at the back of the neck, and all down the legs, especially if I’m sitting near a window, but you know I’m not one to moan. Wish I hadn’t worn these wretched shoes, though. They’ll give me blisters the size of poached eggs …”*
+*“… at the back of the neck, and all down the legs, especially if I’m sitting near a window, but you know I’m not one to moan. Wish I hadn’t worn these wretched shoes, though. They’ll give me blisters the size of poached eggs…”*
 
-“… decided yet, but definitely a pool of opalescence deepening to indigo, and a hint of menace as the dark bulk of that enigmatic structure rises like a gigantic cactus, fringed on one side with minute points of light….”
+“… decided yet, but definitely a pool of opalescence deepening to indigo, and a hint of menace as the dark bulk of that enigmatic structure rises like a gigantic cactus, fringed on one side with minute points of light…”
 
-*“…coinciding with the faint swell of the basso profundo, before the start of Hetmoot’s aria…”*
+*“…coinciding with the faint swell of the basso profundo, before the start of Hetmoot’s aria…”*\
 *“Which reminds me, we’ll need to arrange a meeting with Aurelian before the next…”*
 
 “Yes you did!”
