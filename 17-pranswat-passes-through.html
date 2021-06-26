@@ -18,15 +18,29 @@
 </head>
 
 
-<body>
+<body class="calligraphic">
+  <script type="text/javascript">
+function toggle (t) {
+	if (document.body.classList.contains('calligraphic')) {
+	    document.body.classList.remove('calligraphic');
+	} else {
+	    document.body.classList.add('calligraphic');
+	}
+}
+</script>
+<style>
+	.change-font {
+		text-align: right;
+		color:  white;
+	}
+</style>
+<div class="change-font" onclick="toggle(this)">
+	<a href="#" >Change font</a>
+</div>
   <main class="container">
-
     <header>
-  <h1>Pranswat Passes Through</h1>
-
-  
-</header>
-
+      <h1>Pranswat Passes Through</h1>
+    </header>
 
     <article>
       <p><strong>&ldquo;There is no such thing as Accident; it is Destiny misnamed.&quot;</strong>
@@ -99,17 +113,29 @@
 
     </article>
 
+    <nav>
+      <p class="go-center">
+        
+          <a class="next" href="./05-prutts-game.html">Prutt&rsquo;s Game by Thyles Dudoriac - a review</a>
+          &larr;
+        
+
+        
+          &rarr;
+          <a class="next" href="./14-padratheleons-ghosts.html">Padratheleon’s Ghosts</a>
+        
+      </p>
+    </nav>
+
     <nav class="site-nav">
   <a href=''>Home</a>
-  <a href='./post/'>All posts</a>
+  <a href='./post.html'>Chapters</a>
+  <a href='./about.html'>About</a>
 
   
+  <a href="https://github.com/mythaxis/SnoakCity">GitHub</a>
 
-  
-
-  
 </nav>
-
 
     <footer class="site-footer">
   <span class="owner">©2021 Lez Skarloff</span>
@@ -127,17 +153,10 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
-  <!-- Build date: Sat, 26 Jun 2021 12:41:04 UTC -->
+  <!-- Build date: Sat, 26 Jun 2021 20:05:26 UTC -->
 </footer>
 
-
   </main>
-
-  
-<script src="js/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-
-
 </body>
 
 </html>

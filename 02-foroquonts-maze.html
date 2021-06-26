@@ -18,15 +18,29 @@
 </head>
 
 
-<body>
+<body class="calligraphic">
+  <script type="text/javascript">
+function toggle (t) {
+	if (document.body.classList.contains('calligraphic')) {
+	    document.body.classList.remove('calligraphic');
+	} else {
+	    document.body.classList.add('calligraphic');
+	}
+}
+</script>
+<style>
+	.change-font {
+		text-align: right;
+		color:  white;
+	}
+</style>
+<div class="change-font" onclick="toggle(this)">
+	<a href="#" >Change font</a>
+</div>
   <main class="container">
-
     <header>
-  <h1>Foroquont&#39;s Maze</h1>
-
-  
-</header>
-
+      <h1>Foroquont&#39;s Maze</h1>
+    </header>
 
     <article>
       <p><glyph >A</glyph> starburst of globubbles signalled the start of the annual contest in Snoak City’s westernmost district of Whissit Fields. In the warm dusk the bright globes hung like a slowly expanding cluster of floating jewels, casting a network of overlapping colours over this year’s untested challenge that was Foroquont’s maze.</p>
@@ -57,17 +71,29 @@
 
     </article>
 
+    <nav>
+      <p class="go-center">
+        
+          <a class="next" href="./22-hoolocks-and-hellions.html">Hoolocks and Hellions</a>
+          &larr;
+        
+
+        
+          &rarr;
+          <a class="next" href="./18-feeling-the-heat.html">Feeling the Heat: A Twice-told Tale</a>
+        
+      </p>
+    </nav>
+
     <nav class="site-nav">
   <a href=''>Home</a>
-  <a href='./post/'>All posts</a>
+  <a href='./post.html'>Chapters</a>
+  <a href='./about.html'>About</a>
 
   
+  <a href="https://github.com/mythaxis/SnoakCity">GitHub</a>
 
-  
-
-  
 </nav>
-
 
     <footer class="site-footer">
   <span class="owner">©2021 Lez Skarloff</span>
@@ -85,17 +111,10 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
-  <!-- Build date: Sat, 26 Jun 2021 12:41:04 UTC -->
+  <!-- Build date: Sat, 26 Jun 2021 20:05:26 UTC -->
 </footer>
 
-
   </main>
-
-  
-<script src="js/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-
-
 </body>
 
 </html>

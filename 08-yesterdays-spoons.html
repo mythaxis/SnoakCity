@@ -18,15 +18,29 @@
 </head>
 
 
-<body>
+<body class="calligraphic">
+  <script type="text/javascript">
+function toggle (t) {
+	if (document.body.classList.contains('calligraphic')) {
+	    document.body.classList.remove('calligraphic');
+	} else {
+	    document.body.classList.add('calligraphic');
+	}
+}
+</script>
+<style>
+	.change-font {
+		text-align: right;
+		color:  white;
+	}
+</style>
+<div class="change-font" onclick="toggle(this)">
+	<a href="#" >Change font</a>
+</div>
   <main class="container">
-
     <header>
-  <h1>Yesterday&#39;s Spoons</h1>
-
-  
-</header>
-
+      <h1>Yesterday&#39;s Spoons</h1>
+    </header>
 
     <article>
       <p><glyph >M</glyph>orton Quanderpyre&rsquo;s emotional range was relatively narrow, but within this confined spectrum he was well practiced. He had absolutely no trouble with disdain, indignation or indifference; they were the familiar background to his daily life. Smugness also came easily to him. Had he not built an empire by outsmarting others? It had simply been a process of making the right decisions. He had needed to learn how to use people, to probe for weaknesses and take advantage of them. There had been some necessary bypassing of rules, even from time to time a little selective bribery. On occasion he had been obliged to hire (always at one remove) unsavoury types who would undertake persuasion for money, no questions asked.</p>
@@ -41,17 +55,26 @@
 
     </article>
 
+    <nav>
+      <p class="go-center">
+        
+
+        
+          &rarr;
+          <a class="next" href="./20-unreliable-rumours.html">Unreliable Rumours</a>
+        
+      </p>
+    </nav>
+
     <nav class="site-nav">
   <a href=''>Home</a>
-  <a href='./post/'>All posts</a>
+  <a href='./post.html'>Chapters</a>
+  <a href='./about.html'>About</a>
 
   
+  <a href="https://github.com/mythaxis/SnoakCity">GitHub</a>
 
-  
-
-  
 </nav>
-
 
     <footer class="site-footer">
   <span class="owner">©2021 Lez Skarloff</span>
@@ -69,17 +92,10 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
-  <!-- Build date: Sat, 26 Jun 2021 12:41:04 UTC -->
+  <!-- Build date: Sat, 26 Jun 2021 20:05:26 UTC -->
 </footer>
 
-
   </main>
-
-  
-<script src="js/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-
-
 </body>
 
 </html>

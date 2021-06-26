@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sketches of Snoak City</title>
-    <link>/</link>
-    <description>Recent content on Sketches of Snoak City</description>
+    <title>Chapters on Sketches of Snoak City</title>
+    <link>/post.html</link>
+    <description>Recent content in Chapters on Sketches of Snoak City</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Closer Look at Greeming &amp; Trulph</title>
       <link>/06-a-closer-look-at-greeming-and-trulph.html</link>
@@ -14,17 +14,6 @@
       
       <guid>/06-a-closer-look-at-greeming-and-trulph.html</guid>
       <description>The shop door opened with a melodious ping, gradually admitting a small boy walking backwards, his arms wrapped round a cardboard box which reached from waist to chin. Every few steps he had to perform an awkward hop as the box began to slip and needed to be pushed back up with a knee. Each time this occurred the contents of the box resonated with a mildly discordant tinkling, like a chandelier caught in a draught.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about.html</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/about.html</guid>
-      <description>Snyrl
-Credits Website theme: Paperback, by dashdashzako
-Fonts: Cantique, by Sébastien Hayez, Modified &amp;amp; contributed by Ariel Martín Pérez (Velvetyne font Foundry), and Special Elite, designed by Astigmatic</description>
     </item>
     
     <item>
@@ -186,17 +175,6 @@ It could only be Ruckney Plitter in his custom-built pre-SunCell landshrinker, h
       <guid>/04-smolehives-anakalyptoscope.html</guid>
       <description>It was one of Snoak City&amp;rsquo;s quieter attractions.
 It might have been the effect of its comparative isolation, or the sparse external lighting, but the building, despite its unusual solidity, gave the appearance of being drab and possibly in need of repair. It was difficult to know exactly what needed to be fixed. The curving walls were of rough grey local stone, with patches of moss where it was less weathered.</description>
-    </item>
-    
-    <item>
-      <title>Snyrl</title>
-      <link>/00-snyrl.html</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/00-snyrl.html</guid>
-      <description>In the beginning was the Bird…
-Or so it is said, but with due respect to the literalists of Snoak City, the Bird must have post-dated the Beginning, in all likelihood by a century or two, in order for the tree to grow from a fortuitously germinated acorn into the immense grandeur of its oakhood.
-The Bird was called Snyrl, a name spoken with lip curled in disdain or mockery only by those unfamiliar with the mythic history.</description>
     </item>
     
     <item>

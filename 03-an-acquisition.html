@@ -18,15 +18,29 @@
 </head>
 
 
-<body>
+<body class="calligraphic">
+  <script type="text/javascript">
+function toggle (t) {
+	if (document.body.classList.contains('calligraphic')) {
+	    document.body.classList.remove('calligraphic');
+	} else {
+	    document.body.classList.add('calligraphic');
+	}
+}
+</script>
+<style>
+	.change-font {
+		text-align: right;
+		color:  white;
+	}
+</style>
+<div class="change-font" onclick="toggle(this)">
+	<a href="#" >Change font</a>
+</div>
   <main class="container">
-
     <header>
-  <h1>An Acquisition</h1>
-
-  
-</header>
-
+      <h1>An Acquisition</h1>
+    </header>
 
     <article>
       <p><glyph >A</glyph>cross the Stirrow from Garrible Park a diffuse glow to the north and the faint brouhaha of mass derision testified that the week-end match was in progress at Praspafole Stadium. Statistically, the Snoak City team had a very consistent record, never having won on their home ground, and their loyal followers relished their weekend chance to taunt and jeer, vying with each other, within the established code of decency, to shout the choicest insults. These were usually variations on traditional favourites, involving grandmothers and herrings, or poorly-maintained sacks of frogs.</p>
@@ -66,17 +80,29 @@
 
     </article>
 
+    <nav>
+      <p class="go-center">
+        
+          <a class="next" href="./07-an-excursion-to-platport.html">An Excursion to Platport</a>
+          &larr;
+        
+
+        
+          &rarr;
+          <a class="next" href="./06-a-closer-look-at-greeming-and-trulph.html">A Closer Look at Greeming &amp; Trulph</a>
+        
+      </p>
+    </nav>
+
     <nav class="site-nav">
   <a href=''>Home</a>
-  <a href='./post/'>All posts</a>
+  <a href='./post.html'>Chapters</a>
+  <a href='./about.html'>About</a>
 
   
+  <a href="https://github.com/mythaxis/SnoakCity">GitHub</a>
 
-  
-
-  
 </nav>
-
 
     <footer class="site-footer">
   <span class="owner">©2021 Lez Skarloff</span>
@@ -94,17 +120,10 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
-  <!-- Build date: Sat, 26 Jun 2021 12:41:04 UTC -->
+  <!-- Build date: Sat, 26 Jun 2021 20:05:26 UTC -->
 </footer>
 
-
   </main>
-
-  
-<script src="js/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-
-
 </body>
 
 </html>

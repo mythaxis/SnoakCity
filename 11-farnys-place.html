@@ -18,15 +18,29 @@
 </head>
 
 
-<body>
+<body class="calligraphic">
+  <script type="text/javascript">
+function toggle (t) {
+	if (document.body.classList.contains('calligraphic')) {
+	    document.body.classList.remove('calligraphic');
+	} else {
+	    document.body.classList.add('calligraphic');
+	}
+}
+</script>
+<style>
+	.change-font {
+		text-align: right;
+		color:  white;
+	}
+</style>
+<div class="change-font" onclick="toggle(this)">
+	<a href="#" >Change font</a>
+</div>
   <main class="container">
-
     <header>
-  <h1>Farny&#39;s Place</h1>
-
-  
-</header>
-
+      <h1>Farny&#39;s Place</h1>
+    </header>
 
     <article>
       <p><glyph >H</glyph>eld in suspension by an unseen balance of forces the great globe hung low over the linked cluster of buildings in East Snoak. From a distance its surface appeared perfectly reflective, but closer to it displayed constantly swirling polychromatic patterns reminiscent of a soap-bubble. Every so often, to the delight of spectators, somewhere on its periphery vagrant trails of colour would coalesce, and a luminous blob would momentarily detach itself, before dissipating to leave a slowly fading rainbow glow.</p>
@@ -50,17 +64,29 @@
 
     </article>
 
+    <nav>
+      <p class="go-center">
+        
+          <a class="next" href="./18-feeling-the-heat.html">Feeling the Heat: A Twice-told Tale</a>
+          &larr;
+        
+
+        
+          &rarr;
+          <a class="next" href="./16-eavesdropping-at-quoils.html">Eavesdropping at Quoils</a>
+        
+      </p>
+    </nav>
+
     <nav class="site-nav">
   <a href=''>Home</a>
-  <a href='./post/'>All posts</a>
+  <a href='./post.html'>Chapters</a>
+  <a href='./about.html'>About</a>
 
   
+  <a href="https://github.com/mythaxis/SnoakCity">GitHub</a>
 
-  
-
-  
 </nav>
-
 
     <footer class="site-footer">
   <span class="owner">©2021 Lez Skarloff</span>
@@ -78,17 +104,10 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
-  <!-- Build date: Sat, 26 Jun 2021 12:41:04 UTC -->
+  <!-- Build date: Sat, 26 Jun 2021 20:05:26 UTC -->
 </footer>
 
-
   </main>
-
-  
-<script src="js/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-
-
 </body>
 
 </html>
