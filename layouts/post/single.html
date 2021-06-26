@@ -13,9 +13,22 @@
       {{ .Content }}
     </article>
 
+    <nav>
+      <p class="go-center">
+        {{ with .PrevInSection }}
+          <a class="next" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+          &larr;
+        {{ end }}
+
+        {{ with .NextInSection }}
+          &rarr;
+          <a class="next" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+        {{ end }}
+      </p>
+    </nav>
+
     {{ partial "nav.html" . }}
     {{ partial "footer.html" . }}
-
   </main>
 </body>
 

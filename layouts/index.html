@@ -5,13 +5,14 @@
 
 <body>
   <main class="container">
-    <header>
+<!--     <header>
       <h1>{{ .Title }}</h1>
-    </header>
+    </header> -->
 
     {{ .Content }}
 
-    <a href="contents.html">Contents</a>
+    <a href='{{ "contents.html" | relURL }}'>Contents</a>
+    <a href='{{ "post.html" | relURL }}'>All posts</a>
 
     {{ partial "nav.html" . }}
     {{ partial "footer.html" . }}

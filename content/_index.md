@@ -5,4 +5,4 @@ draft: false
 type: post
 ---
 
-font content
+[![SketchesOfSnoakCity_cover](img/SketchesOfSnoakCity_cover.jpg)](contents.html)
