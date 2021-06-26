@@ -2,6 +2,7 @@
 title: "Yesterday's Spoons"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 {{<glyph>}}M{{</glyph>}}orton Quanderpyre's emotional range was relatively narrow, but within this confined spectrum he was well practiced. He had absolutely no trouble with disdain, indignation or indifference; they were the familiar background to his daily life. Smugness also came easily to him. Had he not built an empire by outsmarting others? It had simply been a process of making the right decisions. He had needed to learn how to use people, to probe for weaknesses and take advantage of them. There had been some necessary bypassing of rules, even from time to time a little selective bribery. On occasion he had been obliged to hire (always at one remove) unsavoury types who would undertake persuasion for money, no questions asked.

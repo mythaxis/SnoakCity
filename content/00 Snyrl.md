@@ -2,6 +2,7 @@
 title: "Snyrl"
 date: 2021-04-05
 draft: false
+type: page
 ---
 
 {{<glyph>}}I{{</glyph>}}*n the beginning was the Bird*…

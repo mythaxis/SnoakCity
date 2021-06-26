@@ -2,6 +2,7 @@
 title: "Unreliable Rumours"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 {{<glyph>}}A{{</glyph>}} discordant fanfare of trumpets sounded from the presumed taxidermist across the road, drowning out the morning’s first few territorial chirps. It was barely dawn. In the downstairs flat opposite, propped on an elbow from the comfort of her bed, Tannaby squinted blearily up at the unrestored gables, corbels and ornate finials of Old Greenhaddock House. Already eroded by centuries of weather, their outlines were further pleasantly softened by a sympathetic light, the colour of cooked prawns. 

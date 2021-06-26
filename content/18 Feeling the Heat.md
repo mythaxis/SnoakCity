@@ -2,6 +2,7 @@
 title: "Feeling the Heat: A Twice-told Tale"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 > *“Tell me where it is, Gyme, or your pretty friend here will suffer the same fate as Ormos and the others.”*

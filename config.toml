@@ -4,4 +4,5 @@ title = "Sketches of Snoak City"
 theme = "paperback"
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 relativeURLs             = true
+uglyURLs				 = true
 publishDir               = "docs"                           # for github pages

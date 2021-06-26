@@ -2,6 +2,7 @@
 title: "Dundro Fappit's Mistake"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 {{<glyph>}}T{{</glyph>}}he natives of the Micronesian island of Tao'kaua sometimes tell their children the legend of *The Jellyfish Who Tried to Eat the Stars*. It is one of many cautionary tales they have up their sleeve to instil respect, discourage foolhardiness, and, as a good friend of mine once eloquently put it, 'knock some of the greth out of the little bastards.' As a morally instructive example, *The Jellyfish Who Tried to Eat the Stars* is about as effective as *The Snake Who Lost the Moon*, or *The More and More Bird*. As a result, the children of Tao'kaua tend to retain much of their greth, and are obliged, like the rest of us, to learn from their own mistakes.

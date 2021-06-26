@@ -2,6 +2,7 @@
 title: "Another Change of Plan"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 {{<glyph>}}R{{</glyph>}}egistered simply as the Trox Bequest, the extraordinary object identified as [the wine cup of Relf]({{< ref "03 An Acquisition.md" >}}) was now on permanent display at the City Museum. The cost of ensuring the security of this fabulous exhibit had been considerable, but was easily outweighed by the sustained increase in sightseers and researchers from near and far, come to marvel at the survival of an object known for so long only from ancient records.

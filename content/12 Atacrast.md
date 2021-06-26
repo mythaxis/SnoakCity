@@ -2,6 +2,7 @@
 title: "Atacrast"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 {{<glyph>}}A{{</glyph>}}t the insistence of a second arpeggio of descending chimes, Mosper Belk reluctantly put down his book and shuffled into the front hall to peer closely at the wall-screen. It displayed in his doorway the profiled image of an unfamiliar man clad in sombre grey, apart from a jaunty emerald trim at collar and cuffs. He held a slim black case. There was a relaxed dignity about his stance which betokened someone serious and self-assured. Mosper had not been expecting any weekend callers. Intrigued, he opened the door.

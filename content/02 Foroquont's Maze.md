@@ -2,6 +2,7 @@
 title: "Foroquont's Maze"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 {{<glyph>}}A{{</glyph>}} starburst of globubbles signalled the start of the annual contest in Snoak City’s westernmost district of Whissit Fields. In the warm dusk the bright globes hung like a slowly expanding cluster of floating jewels, casting a network of overlapping colours over this year’s untested challenge that was Foroquont’s maze.

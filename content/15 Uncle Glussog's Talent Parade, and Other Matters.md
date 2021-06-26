@@ -2,6 +2,7 @@
 title: "Uncle Glussog’s Talent Parade, and Other Matters"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 **"Flowers of silk shatter"**

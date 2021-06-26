@@ -2,6 +2,7 @@
 title: "Pranswat Passes Through"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 **"There is no such thing as Accident; it is Destiny misnamed."**

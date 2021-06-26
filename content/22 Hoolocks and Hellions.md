@@ -2,6 +2,7 @@
 title: "Hoolocks and Hellions"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 {{<glyph>}}P{{</glyph>}}atella 3rdfield sat in front of the mirror adjusting her ear-rings: spiral swirls of diamond-dust studded with tiny sapphires and rubies held in an invisible cloud of programmed nanogel. She was wearing the deep blue cashmere and silk outfit which Aurelian said matched her eyes. Her dark blonde hair was neatly pinned back. The ear-rings were simplified models, of course, but the accelerated movement was detectable even under quite low magnification. [Her daughter Paeony]({{< ref "01 The Smile of Paeony 3rdfield.md" >}}) used to play with them when she was about nine or ten, solemnly peering for hours in the hope of finding the black holes which she had been told were hiding inside. 

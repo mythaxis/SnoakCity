@@ -2,6 +2,7 @@
 title: "An Excursion to Platport"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 {{<glyph>}}T{{</glyph>}}he house was unnaturally quiet, thought Aoma Mylhirm, not for the first time, with that familiar unbidden maternal pang, as she spread cheesefruit paste on a humal leaf, letting it rest on the plate for a minute to allow the enzymes to interact.

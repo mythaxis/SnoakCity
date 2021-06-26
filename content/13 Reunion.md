@@ -2,6 +2,7 @@
 title: "Reunion"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 ***149***

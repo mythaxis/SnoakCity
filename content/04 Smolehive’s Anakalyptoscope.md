@@ -2,6 +2,7 @@
 title: "Smolehive’s Anakalyptoscope"
 date: 2021-04-05
 draft: false
+type: post
 ---
 
 {{<glyph>}}I{{</glyph>}}t was one of Snoak City's quieter attractions.
