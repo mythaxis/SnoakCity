@@ -34,3 +34,5 @@ According to most etymologists, the name “Snyrl’s Oak” underwent an inevit
 A less convincing explanation for the city’s name is that “Snoak” was once that of an actual person, possibly a particularly successful pig-farmer.
 
 Scholars have largely dismissed this idea as being absurdly fanciful.
+
+[Table of Contents]({{< relref path="contents.md" >}})

@@ -23,11 +23,21 @@
 }
 
 
-body {
+html {
+    background-image: url('../img/SketchesOfSnoakCity_Desktop.jpg');
+    background-repeat: repeat;
+}
+
+.container {
+    padding: 2em;
     background-image: url('../img/paper-1217311_1920.jpg');
     /*background-image: url('../img/paper-1332015_1920.jpg');*/
     /*background-image: url('../img/paper-1332019_1920.jpg');*/
     background-repeat: repeat;
+}
+
+.front.container {
+    background-image:  none;
 }
 
 h1 {
@@ -37,7 +47,15 @@ h1 {
   font-family: "Cantique", serif;
 }*/
 
-/* additions */
+/* Site nav */
+nav.front-nav,
+nav.site-nav,
+footer.site-footer {
+    text-align: center;
+}
+
+
+
 /* TEI styles */
 glyph {
     /*font-family: "Cantique", serif;*/

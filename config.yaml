@@ -11,6 +11,7 @@ params:
   keywords: Mythaxis Magazine Science Fiction and Fantasy Modern Fiction
   authorname: Lez Skarloff
   description: Sketches of Snoak City, By Lez Skarloff
+  githubusername: mythaxis/SnoakCity
 
 permalinks:
   post: :filename

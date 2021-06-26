@@ -4,20 +4,17 @@
 {{ partial "head.html" . }}
 
 <body>
-  <main class="front container">
-<!--     <header>
+  <main class="container">
+    <header>
       <h1>{{ .Title }}</h1>
-    </header> -->
+    </header>
 
-    {{ .Content }}
-
-    <nav class="front-nav">
-      <a href='{{ "contents.html" | relURL }}'>Table of Contents</a>
-    </nav>
+    <article>
+      {{ .Content }}
+    </article>
 
     {{ partial "nav.html" . }}
     {{ partial "footer.html" . }}
-
   </main>
 </body>
 
