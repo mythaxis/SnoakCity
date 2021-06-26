@@ -1,0 +1,13 @@
+baseURL: ""
+languageCode: "en-gb"
+title: "Sketches of Snoak City"
+theme: "paperback"
+googleAnalytics: "UA-146012578-1"
+relativeURLs: true
+uglyURLs: true
+publishDir: "docs" # for github pages
+
+params:
+  keywords: Mythaxis Magazine Science Fiction and Fantasy Modern Fiction
+  authorname: Lez Skarloff
+  description: Sketches of Snoak City, By Lez Skarloff
