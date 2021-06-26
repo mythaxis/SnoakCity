@@ -40,12 +40,11 @@ html {
     background-image:  none;
 }
 
-h1 {
+
+body.calligraphic h1 {
   font-family: "Cantique", serif;
 }
-/*article {
-  font-family: "Cantique", serif;
-}*/
+
 
 /* Site nav */
 nav.front-nav,
