@@ -1,7 +1,0 @@
-<header>
-  <h1>{{ .Title }}</h1>
-
-  {{ if and .IsHome (isset .Site.Params "tagline") }}
-  <p>{{ .Site.Params.tagline }}</p>
-  {{ end }}
-</header>

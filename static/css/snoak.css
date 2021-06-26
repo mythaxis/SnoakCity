@@ -23,13 +23,24 @@
 }
 
 
+body {
+    background-image: url('../img/paper-1217311_1920.jpg');
+    /*background-image: url('../img/paper-1332015_1920.jpg');*/
+    /*background-image: url('../img/paper-1332019_1920.jpg');*/
+    background-repeat: repeat;
+}
+
 h1 {
   font-family: "Cantique", serif;
 }
+/*article {
+  font-family: "Cantique", serif;
+}*/
 
 /* additions */
 /* TEI styles */
 glyph {
+    /*font-family: "Cantique", serif;*/
     font-weight: 600;
     font-size: 3em;
     float: left;

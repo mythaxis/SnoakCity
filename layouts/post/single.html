@@ -9,9 +9,9 @@
       <h1>{{ .Title }}</h1>
     </header>
 
-    {{ .Content }}
-
-    <a href="contents.html">Contents</a>
+    <article>
+      {{ .Content }}
+    </article>
 
     {{ partial "nav.html" . }}
     {{ partial "footer.html" . }}
