@@ -3,9 +3,16 @@ languageCode: "en-gb"
 title: "Sketches of Snoak City"
 theme: "paperback"
 googleAnalytics: "UA-146012578-1"
-relativeURLs: true
-uglyURLs: true
+uglyurls: true
+relativeurls: true
+canonifyURLs: true
+disableHugoGeneratorInject: true
+languageCode: en-us
 publishDir: "docs" # for github pages
+disableKinds:
+  - RSS
+staticDir:
+- static
 
 params:
   keywords: Mythaxis Magazine Science Fiction and Fantasy Modern Fiction
@@ -15,3 +22,15 @@ params:
 
 permalinks:
   post: :filename
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: -10
+    - name: Chapters
+      url: /post.html
+      weight: -9
+    - name: About
+      url: /about.html
+      weight: -8
