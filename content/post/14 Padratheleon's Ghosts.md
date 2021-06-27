@@ -1,6 +1,6 @@
 ---
 title: "Padratheleon’s Ghosts"
-date: 2021-04-05
+date: 2017-08-24
 draft: false
 type: post
 ---

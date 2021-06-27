@@ -1,6 +1,6 @@
 ---
 title: "Dundro Fappit's Mistake"
-date: 2021-04-05
+date: 2012-08-22
 draft: false
 type: post
 ---

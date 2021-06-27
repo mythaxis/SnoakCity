@@ -1,6 +1,6 @@
 ---
 title: "A Closer Look at Greeming & Trulph"
-date: 2021-04-05
+date: 2014-03-22
 draft: false
 type: post
 ---
