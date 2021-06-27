@@ -3,6 +3,7 @@ title: "The Man with Bronze Hair"
 date: 2016-11-27
 draft: false
 type: post
+weight: 9
 ---
 
 {{<glyph>}}A{{</glyph>}} few of those involved in the unauthorized landscaping in Smatparrox knew the bronze-haired man as Farras Grein. They were well-motivated, and knew better than to discuss either their work or his identity with strangers. They were also well-paid, but this was incidental to the satisfaction afforded by the importance of what they jointly aimed to achieve. There was good reason for the secrecy of their activities.

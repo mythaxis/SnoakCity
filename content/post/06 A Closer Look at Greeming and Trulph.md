@@ -3,6 +3,7 @@ title: "A Closer Look at Greeming & Trulph"
 date: 2014-03-22
 draft: false
 type: post
+weight: 6
 ---
 
 {{<glyph>}}T{{</glyph>}}he shop door opened with a melodious ping, gradually admitting a small boy walking backwards, his arms wrapped round a cardboard box which reached from waist to chin. Every few steps he had to perform an awkward hop as the box began to slip and needed to be pushed back up with a knee. Each time this occurred the contents of the box resonated with a mildly discordant tinkling, like a chandelier caught in a draught.

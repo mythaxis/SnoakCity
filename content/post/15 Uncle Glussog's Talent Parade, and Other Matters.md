@@ -3,6 +3,7 @@ title: "Uncle Glussog’s Talent Parade, and Other Matters"
 date: 2017-08-24
 draft: false
 type: post
+weight: 15
 ---
 
 **"Flowers of silk shatter"**

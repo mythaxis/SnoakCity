@@ -15,10 +15,10 @@
     <nav class="content-nav">
       •<br />
       <div class="go-center">
-        {{ with .PrevInSection }}
+        {{ with .NextInSection }}
           &larr; <a class="next" href="{{ .RelPermalink }}">Prev chapter</a> |
         {{ end }}
-        {{ with .NextInSection }}
+        {{ with .PrevInSection }}
           <a class="next" href="{{ .RelPermalink }}">Next chapter</a> &rarr;
         {{ end }}
       </div>

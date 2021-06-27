@@ -3,6 +3,7 @@ title: "Padratheleon’s Ghosts"
 date: 2017-08-24
 draft: false
 type: post
+weight: 14
 ---
 
 {{<glyph>}}“H{{</glyph>}}e still looks crabby.”

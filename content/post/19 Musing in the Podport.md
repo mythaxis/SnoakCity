@@ -3,6 +3,7 @@ title: "Musing in the Podport"
 date: 2021-04-05
 draft: false
 type: post
+weight: 19
 ---
 
 {{<glyph>}}G{{</glyph>}}awl and Rambersack were, as ever, in search of new sources of inspiration. Still of persistently limited renown, they were shielded from adverse criticism of [their modest contributions to the world’s poetic corpus]({{< ref "16 Eavesdropping at Quoils.md" >}}) by sheer self-belief and dogged enthusiasm. They had dabbled with myths, fulminated against biotaps, teased out slender shades of meaning where others might have shrugged with indifference. Now they had set themselves the daunting challenge of summoning their Muse from within the pages of *The City Enwitter*, one of the flashy fabloids disseminated by Morton Quanderpyre’s media empire.

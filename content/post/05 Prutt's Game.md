@@ -3,6 +3,7 @@ title: "Prutt's Game by Thyles Dudoriac - a review"
 date: 2021-04-05
 draft: false
 type: post
+weight: 5
 ---
 
 **Don B Levitt**

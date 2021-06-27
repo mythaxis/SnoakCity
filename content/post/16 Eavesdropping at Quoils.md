@@ -3,6 +3,7 @@ title: "Eavesdropping at Quoils"
 date: 2018-02-14
 draft: false
 type: post
+weight: 16
 ---
 
 **"A free droplet of liquid naturally assumes a spherical shape, which has the minimum surface area for a given volume. The equivalence of measurement of energy per unit area to force per unit length can be proven by dimensional analysis."**

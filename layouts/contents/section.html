@@ -17,7 +17,7 @@
     <article>
       <section>
         <ol>
-          {{ range sort (where site.RegularPages "Type" "in" "post") "File.Path" }}
+          {{ range sort (where site.RegularPages.ByWeight "Type" "in" "post") }}
           <li>{{ .Render "list-item" }}</li>
           {{ end }}
         </ol>

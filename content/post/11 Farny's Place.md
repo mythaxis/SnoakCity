@@ -3,6 +3,7 @@ title: "Farny's Place"
 date: 2016-08-28
 draft: false
 type: post
+weight: 11
 ---
 
 {{<glyph>}}H{{</glyph>}}eld in suspension by an unseen balance of forces the great globe hung low over the linked cluster of buildings in East Snoak. From a distance its surface appeared perfectly reflective, but closer to it displayed constantly swirling polychromatic patterns reminiscent of a soap-bubble. Every so often, to the delight of spectators, somewhere on its periphery vagrant trails of colour would coalesce, and a luminous blob would momentarily detach itself, before dissipating to leave a slowly fading rainbow glow.

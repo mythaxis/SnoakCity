@@ -3,6 +3,7 @@ title: "The Smile of Paeony 3rdfield"
 date: 2012-08-22
 draft: false
 type: post
+weight: 1
 ---
 
 {{<glyph>}}T{{</glyph>}}he first one to be filmed (to use the archaic term) was spotted at dawn by a roving reconnaissance pod over Ratman’s Fork, a desolate spot where the rough edge of urban sprawl gave way to the broken shells of long-abandoned warehouses. The route of the old motorway was still just detectable under the accretion of brambles, weeds, hardy grasses and the detritus of ancient wreckage. The images were automatically filed at [Central]({{< ref "15 Uncle Glussog's Talent Parade, and Other Matters.md" >}}), but left unprocessed for some sixty days. Ratman’s Fork was not listed among priority scanning zones.

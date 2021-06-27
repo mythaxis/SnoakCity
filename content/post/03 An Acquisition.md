@@ -3,6 +3,7 @@ title: "An Acquisition"
 date: 2013-03-07
 draft: false
 type: post
+weight: 3
 ---
 
 {{<glyph>}}A{{</glyph>}}cross the Stirrow from Garrible Park a diffuse glow to the north and the faint brouhaha of mass derision testified that the week-end match was in progress at Praspafole Stadium. Statistically, the Snoak City team had a very consistent record, never having won on their home ground, and their loyal followers relished their weekend chance to taunt and jeer, vying with each other, within the established code of decency, to shout the choicest insults. These were usually variations on traditional favourites, involving grandmothers and herrings, or poorly-maintained sacks of frogs.
