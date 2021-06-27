@@ -3,8 +3,4 @@
   {{ range .Site.Menus.main }}
   <a href="{{ .URL }}"><span>{{ .Name }}</span></a>
   {{ end }}
-
-  {{ if isset .Site.Params "githubusername" }}
-  <a href="https://github.com/{{ .Site.Params.githubusername }}">GitHub</a>
-  {{- end }}
 </nav>

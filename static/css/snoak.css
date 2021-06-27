@@ -24,16 +24,25 @@
 
 
 html {
-    background-image: url('../img/SketchesOfSnoakCity_Desktop.jpg');
-    background-repeat: repeat;
+    background-image: url('../img/Background-Wood-med.jpg');
+    background-size: 1700px;
+    background-repeat: repeat-y;
+    background-color: #80443A;
 }
+body {
+    margin-bottom: 5rem;
+}
+
 
 .container {
     padding: 2em;
-    background-image: url('../img/paper-1217311_1920.jpg');
-    /*background-image: url('../img/paper-1332015_1920.jpg');*/
-    /*background-image: url('../img/paper-1332019_1920.jpg');*/
+    background-image: url('../img/paper-light-portrait.jpg');
+    background-size: 1300px;
     background-repeat: repeat;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.front.container {
+    box-shadow: none;
 }
 
 .front.container {
@@ -41,17 +50,45 @@ html {
 }
 
 
-body.calligraphic h1 {
-  font-family: "Cantique", serif;
-}
-
-
 /* Site nav */
 nav.front-nav,
 nav.site-nav,
-footer.site-footer {
+footer.site-footer,
+nav.content-nav {
     text-align: center;
 }
+
+nav.site-nav,
+nav.content-nav {
+    font-size: 1.1rem;
+    margin-top: 2rem;
+}
+
+
+.front nav.front-nav,
+.front nav.site-nav,
+.front footer.site-footer {
+    color: #FFF;
+}
+
+footer, .site-nav {
+    color: #303030;
+}
+
+article a.readmore,
+p a {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+article a.readmore {
+    float: right;
+}
+
+/* Font changing body class */
+body.calligraphic h1 {
+  /*font-family: "Cantique", serif;*/
+}
+
 
 
 

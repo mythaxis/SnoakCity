@@ -3,18 +3,11 @@
 
 {{ partial "head.html" . }}
 
-<body class="calligraphic">
+<body class="front calligraphic">
   {{ partial "font-changer.html" . }}
   <main class="front container">
-<!--     <header>
-      <h1>{{ .Title }}</h1>
-    </header> -->
-
+    
     {{ .Content }}
-
-    <nav class="front-nav">
-      <a href='{{ "contents.html" | relURL }}'>Table of Contents</a>
-    </nav>
 
     {{ partial "nav.html" . }}
     {{ partial "footer.html" . }}
