@@ -2,86 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/06-a-closer-look-at-greeming-and-trulph.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/about.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/03-an-acquisition.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/07-an-excursion-to-platport.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/10-another-change-of-plan.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/12-atacrast.html</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post.html</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/21-dundro-fappits-mistake.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/16-eavesdropping-at-quoils.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/11-farnys-place.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/18-feeling-the-heat.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/02-foroquonts-maze.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/22-hoolocks-and-hellions.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/19-musing-in-the-podport.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/14-padratheleons-ghosts.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/17-pranswat-passes-through.html</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/05-prutts-game.html</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/13-reunion.html</loc>
+    <loc>/contents.html</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/04-smolehives-anakalyptoscope.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/00-snyrl.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/contents.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/09-the-man-with-bronze-hair.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/01-the-smile-of-paeony-3rdfield.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/15-uncle-glussogs-talent-parade-and-other-matters.html</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/20-unreliable-rumours.html</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/18-feeling-the-heat.html</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/17-pranswat-passes-through.html</loc>
+    <lastmod>2018-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/16-eavesdropping-at-quoils.html</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/14-padratheleons-ghosts.html</loc>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/15-uncle-glussogs-talent-parade-and-other-matters.html</loc>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/13-reunion.html</loc>
+    <lastmod>2017-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/09-the-man-with-bronze-hair.html</loc>
+    <lastmod>2016-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/12-atacrast.html</loc>
+    <lastmod>2016-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/11-farnys-place.html</loc>
+    <lastmod>2016-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/10-another-change-of-plan.html</loc>
+    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/06-a-closer-look-at-greeming-and-trulph.html</loc>
+    <lastmod>2014-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/07-an-excursion-to-platport.html</loc>
+    <lastmod>2014-03-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/08-yesterdays-spoons.html</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2014-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/03-an-acquisition.html</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/04-smolehives-anakalyptoscope.html</loc>
+    <lastmod>2013-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/21-dundro-fappits-mistake.html</loc>
+    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/02-foroquonts-maze.html</loc>
+    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/22-hoolocks-and-hellions.html</loc>
+    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/01-the-smile-of-paeony-3rdfield.html</loc>
+    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories.html</loc>
   </url><url>
