@@ -13,10 +13,9 @@
     </article>
 
     <nav class="content-nav">
-      •<br />
       <div class="go-center">
         {{ with .NextInSection }}
-          &larr; <a class="next" href="{{ .RelPermalink }}">Prev chapter</a> |
+          &larr; <a class="next" href="{{ .RelPermalink }}">Prev chapter</a> •
         {{ end }}
         {{ with .PrevInSection }}
           <a class="next" href="{{ .RelPermalink }}">Next chapter</a> &rarr;
