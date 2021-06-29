@@ -14,5 +14,4 @@ Les Sklaroff read science fiction from an early age, and though he's now old eno
 **Fonts:** Frontpage book title is [Cantique, by Sébastien Hayez, Modified & contributed by Ariel Martín Pérez](https://velvetyne.fr/fonts/cantique/), from the [Velvetyne font Foundry](https://velvetyne.fr/), and the author name uses [Special Elite, designed by Astigmatic](https://fonts.google.com/specimen/Special+Elite). The website uses [Lucidia handwriting](https://www.cufonfonts.com/font/lucida-handwriting-std) from CUFON Fonts and the default font from the Paperback theme by [Arvo, by Anton Koovit](https://fonts.google.com/specimen/Arvo) from Google Webfonts.
 
 
-
 2021-07-01
