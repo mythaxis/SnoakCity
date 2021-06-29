@@ -58,12 +58,14 @@ nav.content-nav {
     text-align: center;
 }
 
-nav.site-nav,
 nav.content-nav {
     font-size: 1.1rem;
     margin-top: 2rem;
 }
-
+nav.site-nav {
+    font-size: 1.1rem;
+    margin-top: 0.8rem;
+}
 
 .front nav.front-nav,
 .front nav.site-nav,
@@ -77,8 +79,8 @@ footer, .site-nav {
 
 article a.readmore,
 p a {
-    text-transform: uppercase;
     font-weight: bold;
+    font-style: italic;
 }
 article a.readmore {
     float: right;
