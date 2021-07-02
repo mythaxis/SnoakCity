@@ -9,8 +9,6 @@ canonifyURLs: true
 disableHugoGeneratorInject: true
 languageCode: en-us
 publishDir: "docs" # for github pages
-disableKinds:
-  - RSS
 staticDir:
 - static
 

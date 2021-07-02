@@ -26,19 +26,6 @@
 }
 
 
-/* Cantique, by Sébastien Hayez, Modified & contributed by Ariel Martín Pérez */
-/* (Velvetyne font Foundry) - https://velvetyne.fr/fonts/cantique/ */
-@font-face {
-    font-family: "Cantique";
-    src: url('../fonts/Cantique-Normal.woff2') format('woff2'),
-         url('../fonts/Cantique-Normal.woff') format('woff'),
-         url('../fonts/Cantique-Normal.eot') format('embedded-opentype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
 html {
     background-image: url('../img/Background-Wood-med.jpg');
     background-size: 1700px;
@@ -60,6 +47,7 @@ body {
 }
 .front.container {
     box-shadow: none;
+    transform: none;
 }
 
 .front.container {
@@ -117,6 +105,9 @@ blockquote {
 /* Font changing body class */
 body.calligraphic {
   font-family: "LucidiaHandwriting", serif;
+}
+body.calligraphic .container {
+    transform: rotate(-0.5deg);
 }
 body.calligraphic h1 {
   font-family: "LucidiaHandwriting", serif;
