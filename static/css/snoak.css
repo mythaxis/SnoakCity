@@ -109,6 +109,13 @@ body.calligraphic {
 body.calligraphic .container {
     transform: rotate(-0.5deg);
 }
+@media only screen and (pointer:coarse) and (orientation : portrait) {
+/* mobile devices don't rotate the page when in portrait */
+    body.calligraphic .container {
+        transform: none;
+    }
+}
+
 body.calligraphic h1 {
   font-family: "LucidiaHandwriting", serif;
   font-style: normal;
