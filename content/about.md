@@ -5,16 +5,18 @@ draft: false
 type: page
 ---
 
-![Les with feathers](img/Les-with-feathers.png)
+{{< figure src="img/LesSketch.png" title="Les Skarloff" alt="Les Skarloff" width="70%">}}
 
 Les Sklaroff read science fiction from an early age, and though he's now old enough to know better the habit is hard to break.
 
-Born in London, educated (despite spirited resistance) at the University of Edinburgh, he hitch-hiked abroad, basking in Corfu, busking in Paris, and worked for an antiquarian bookseller before training as a teacher. After teaching in Scotland for ten years, he moved with his wife and children to the Isle of Wight and became an independent bookseller, specialising in Mervyn Peake, illustrated books, and modern first editions. His late flowering as a writer is largely due to the friendly indulgence of former editor, Gil Williamson, in whose zine *Mythaxis* the stories of Snoak City [have their roots]({{< relref path="00 Snyrl.md" >}}).
+Born in London, educated (despite spirited resistance) at the University of Edinburgh, he hitch-hiked abroad, basking in Corfu, busking in Paris, and worked for an antiquarian bookseller before training as a teacher. After teaching in Scotland for ten years, he moved with his wife and children to the Isle of Wight and became an independent bookseller, specialising in Mervyn Peake, illustrated books, and modern first editions.
+
+His late flowering as a writer is largely due to the friendly indulgence of former editor, Gil Williamson, in whose zine *Mythaxis* the stories of Snoak City [have their roots]({{< relref path="00 Snyrl.md" >}}).
 
 
 ---
 
-#### This Digital Edition
+##### This Digital Edition
 
 **Images:** Images created by [Andrew Leon Hudson](https://andrewleonhudson.wordpress.com/), using creative commons photpgraphy.
 

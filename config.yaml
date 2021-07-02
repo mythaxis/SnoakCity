@@ -29,9 +29,6 @@ menu:
     - name: Sketches
       url: /contents.html
       weight: -9
-    - name: Chapters
-      url: /post.html
-      weight: -8
     - name: About
       url: /about.html
       weight: -7
