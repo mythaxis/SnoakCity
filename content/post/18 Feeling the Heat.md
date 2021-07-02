@@ -64,7 +64,7 @@ Not long after his arrival in Snoak, eager to sample urban culture, Strag had be
 
 
 
-> {{<glyph>}}*I Nightsparks*{{</glyph>}}
+> ### I Nightsparks
 >
 > *Buron knew they would still be following him. He had shaken off two of them; the inept pair on either side of the street whose air of studied indifference changed to consternation whenever their line of sight was obstructed by passing traffic or by other pedestrians. They did not anticipate his sudden sprint at a busy intersection, and consequently failed to see his running leap on to the far side of an accelerating westbound freight transporter, routed from Broskol to Deldorp. Settling down for a long ride in the gathering dusk Buron remembered to check the heavily-lined outer pocket of his coat, where his fingers gently explored the irregular contours of the device he had prised from the dead fist of Haptic Fabricator Hecht. Despite its insulating sheath he could already feel the intensifying heat it had begun to generate.*
 
