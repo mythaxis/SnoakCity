@@ -1,14 +1,30 @@
-
+/* Lucidia handwriting */
+/* (CUFON Fonts) - https://www.cufonfonts.com/font/lucida-handwriting-std */
 @font-face {
-    font-family: "Special Elite";
-    src: url('../fonts/SpecialElite-webfont.eot');
-    src: url('../fonts/SpecialElite-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/SpecialElite-webfont.woff') format('woff'),
-         url('../fonts/SpecialElite-webfont.ttf') format('truetype'),
-         url('../fonts/SpecialElite-webfont.svg#special_eliteregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
+  font-family: "LucidiaHandwriting";
+  src: url("../fonts/LucidaHandwritingStdLight.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
 }
+@font-face {
+  font-family: "LucidiaHandwriting";
+  src: url("../fonts/LucidaHandwritingStdBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "LucidiaHandwriting";
+  src: url("../fonts/LucidaHandwritingStdBold.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "LucidiaHandwriting";
+  src: url("../fonts/LucidaHandwritingStdBold.woff") format("woff");
+  font-weight: bold;
+  font-style: bolder;
+}
+
 
 /* Cantique, by Sébastien Hayez, Modified & contributed by Ariel Martín Pérez */
 /* (Velvetyne font Foundry) - https://velvetyne.fr/fonts/cantique/ */
@@ -31,6 +47,7 @@ html {
 }
 body {
     margin-bottom: 5rem;
+    max-width: 1684px;
 }
 
 
@@ -73,6 +90,10 @@ nav.site-nav {
     color: #FFF;
 }
 
+.front p a {
+    border-bottom: 0;
+}
+
 footer, .site-nav {
     color: #303030;
 }
@@ -81,23 +102,47 @@ article a.readmore,
 p a {
     font-weight: bold;
     font-style: italic;
+    text-decoration: underline;
+    border-bottom: 0;
 }
 article a.readmore {
     float: right;
 }
-
-/* Font changing body class */
-body.calligraphic h1 {
-  /*font-family: "Cantique", serif;*/
+blockquote {
+    margin: 0 0 2rem;
+    color: #6f4107;
 }
 
 
+/* Font changing body class */
+body.calligraphic {
+  font-family: "LucidiaHandwriting", serif;
+}
+body.calligraphic h1 {
+  font-family: "LucidiaHandwriting", serif;
+  font-style: normal;
+  font-weight: bold;
+}
+body.calligraphic article a.readmore,
+body.calligraphic p a {
+    font-weight: normal;
+}
+body.calligraphic blockquote p em {
+    font-style: normal;
+}
+
+/* Inverse font on change font link */
+body #change-font {
+    font-family: "LucidiaHandwriting", serif;
+}
+body.calligraphic #change-font {
+    font-family: Arvo, serif;
+}
 
 
 /* TEI styles */
 glyph {
-    /*font-family: "Cantique", serif;*/
-    font-weight: 600;
+    font-weight: bolder;
     font-size: 3em;
     float: left;
     line-height: 1em;
@@ -108,3 +153,12 @@ glyph.small {
     font-size: 2em;
 }
 
+
+/* Font change styles */
+body.calligraphic glyph {
+    font-weight: normal;
+    line-height: 0.8em;
+    padding-top: 0;
+    padding-right: 0.1em;
+    padding-bottom: 0em;
+}
