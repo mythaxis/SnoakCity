@@ -5,7 +5,7 @@ draft: false
 type: page
 ---
 
-{{< figure src="img/LesSketch.png" title="Les Skarloff" alt="Les Skarloff" width="70%">}}
+{{< figure src="img/LesSketch.png" title="Les Sklaroff" alt="Les Sklaroff" width="70%">}}
 
 Les Sklaroff read science fiction from an early age, and though he's now old enough to know better the habit is hard to break.
 
