@@ -100,7 +100,13 @@ blockquote {
     margin: 0 0 2rem;
     color: #6f4107;
 }
-
+figure,
+figure img,
+figure figcaption {
+    display: flex;
+    justify-content: center;
+     margin-top: auto;
+}
 
 /* Font changing body class */
 body.calligraphic {
