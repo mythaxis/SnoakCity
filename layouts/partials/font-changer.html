@@ -1,51 +1,54 @@
 <script type="text/javascript">
-/** Does what the function says - toggles the 'caligraphic' body class
- *  so the CSS can change the font.
-**/
-function toggleBodyClass(t) {
-	if (document.body.classList.contains('calligraphic')) {
-		document.body.classList.remove('calligraphic');
-		togglePageLinks(false);
-	} else {
+// Does what the function says
+function toggleCaligraphic(t) {
+	setCaligraphic(1-getCaligraphic());
+}
+
+// Set the caligraphic cookie/class state
+function setCaligraphic(enabled) {
+	if (enabled) {
 		document.body.classList.add('calligraphic');
-		togglePageLinks(true);
+		setCookie('calligraphic', 1, 1);
+	} else {
+		document.body.classList.remove('calligraphic');
+		setCookie('calligraphic', 0, 1);
 	}
 }
 
-/* Toggle the query params on the page links (query params are used instead of cookies) 
- * addParam == True or False/undefined to add or remove params.
-**/
-function togglePageLinks(addParam) {
-	// select hyperlinks from specific nav areas (to avoid footer links)
-	let anchors = document.querySelectorAll('.front p a, .head-nav a, article a, .content-nav a, .site-nav a');
-	
-	Array.prototype.forEach.call(anchors, function (element, index) {
-		var href = element.href;
-
-		if (href) {
-			try {
-				var url = new URL(href);
-				
-				if (addParam) {
-					url.searchParams.set("calligraphic", "true");
-				} else {
-					url.searchParams.delete("calligraphic");
-				}
-
-				element.href = url.href;
-			} catch{}
-		}
-	});
+// Gets the current caligraphic state
+function getCaligraphic() {
+	return getCookie('calligraphic');
 }
 
-/* Set link param state (instead of using cookies). */
+// @src: https://www.tabnine.com/academy/javascript/javascript/how-to-set-cookies-javascript/
+function getCookie(cName) {
+      const name = cName + "=";
+      const cDecoded = decodeURIComponent(document.cookie); //to be careful
+      const cArr = cDecoded .split('; ');
+      let res;
+      cArr.forEach(val => {
+          if (val.indexOf(name) === 0) res = val.substring(name.length);
+      })
+      return res;
+}
+
+// Set a Cookie
+function setCookie(cName, cValue, expDays) {
+        let date = new Date();
+        date.setTime(date.getTime() + (expDays * 24 * 60 * 60 * 1000));
+        const expires = "expires=" + date.toUTCString();
+        document.cookie = cName + "=" + cValue + "; " + expires + "; path=/";
+        console.log('setting cookie to ' + cValue);
+}
+
+// Set link param state (instead of using cookies)
 window.addEventListener("load", function(){
-	if (document.body.classList.contains('calligraphic')) {
-		console.log('page load - set to true');
-		togglePageLinks(true);
-	} else {
-		togglePageLinks(false);
-		console.log('page load - set to false');
+	if (getCaligraphic() === undefined) { // first time visitor
+		setCaligraphic(true);
+	}  else if (getCaligraphic() == 1) { // set caligraphic
+		setCaligraphic(true);
+	} else if (getCaligraphic() == 0) { // unset caligraphic
+		setCaligraphic(false);
 	}
 });
 </script>
@@ -57,6 +60,6 @@ window.addEventListener("load", function(){
 	}
 </style>
 
-<div id="change-font" onclick="toggleBodyClass(this)">
+<div id="change-font" onclick="toggleCaligraphic(this)">
 	<a href="#" >Change font</a>
 </div>
