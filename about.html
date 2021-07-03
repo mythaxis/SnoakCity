@@ -10,8 +10,6 @@
   <title>About the Author — Sketches of Snoak City</title>
 
   <link rel="canonical" href="./about.html">
-  <link href="" rel="alternate"
-    type="application/rss+xml" title="Sketches of Snoak City">
   <link rel="shortcut icon" type="image/jpg" href="./favicon.ico" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Arvo:400,700">
   <link rel="stylesheet" href='./css/paperback.css'>
@@ -21,23 +19,71 @@
 
 <body class="calligraphic">
   <script type="text/javascript">
-function toggle (t) {
-	if (document.body.classList.contains('calligraphic')) {
-	    document.body.classList.remove('calligraphic');
+
+function toggleCaligraphic(t) {
+	setCaligraphic(1-getCaligraphic());
+}
+
+
+function setCaligraphic(enabled) {
+	if (enabled) {
+		document.body.classList.add('calligraphic');
+		setCookie('calligraphic', 1, 1);
 	} else {
-	    document.body.classList.add('calligraphic');
+		document.body.classList.remove('calligraphic');
+		setCookie('calligraphic', 0, 1);
 	}
 }
+
+
+function getCaligraphic() {
+	return getCookie('calligraphic');
+}
+
+
+function getCookie(cName) {
+      const name = cName + "=";
+      const cDecoded = decodeURIComponent(document.cookie); 
+      const cArr = cDecoded .split('; ');
+      let res;
+      cArr.forEach(val => {
+          if (val.indexOf(name) === 0) res = val.substring(name.length);
+      })
+      return res;
+}
+
+
+function setCookie(cName, cValue, expDays) {
+        let date = new Date();
+        date.setTime(date.getTime() + (expDays * 24 * 60 * 60 * 1000));
+        const expires = "expires=" + date.toUTCString();
+        document.cookie = cName + "=" + cValue + "; " + expires + "; path=/";
+        console.log('setting cookie to ' + cValue);
+}
+
+
+window.addEventListener("load", function(){
+	if (getCaligraphic() === undefined) { 
+		setCaligraphic(true);
+	}  else if (getCaligraphic() == 1) { 
+		setCaligraphic(true);
+	} else if (getCaligraphic() == 0) { 
+		setCaligraphic(false);
+	}
+});
 </script>
+
 <style>
 	#change-font {
 		text-align: right;
 		color:  white;
 	}
 </style>
-<div id="change-font" onclick="toggle(this)">
+
+<div id="change-font" onclick="toggleCaligraphic(this)">
 	<a href="#" >Change font</a>
 </div>
+
   <main class="container">
     <nav class="head-nav">
       <a href="./"><span>Home</span></a> &larr;
@@ -97,7 +143,7 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
-  <!-- Build date: Sat, 03 Jul 2021 11:30:45 UTC -->
+  <!-- Build date: Sat, 03 Jul 2021 18:15:45 UTC -->
 </footer>
 
   </main>
