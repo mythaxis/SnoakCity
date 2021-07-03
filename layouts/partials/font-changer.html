@@ -1,18 +1,62 @@
 <script type="text/javascript">
-function toggle (t) {
+/** Does what the function says - toggles the 'caligraphic' body class
+ *  so the CSS can change the font.
+**/
+function toggleBodyClass(t) {
 	if (document.body.classList.contains('calligraphic')) {
-	    document.body.classList.remove('calligraphic');
+		document.body.classList.remove('calligraphic');
+		togglePageLinks(false);
 	} else {
-	    document.body.classList.add('calligraphic');
+		document.body.classList.add('calligraphic');
+		togglePageLinks(true);
 	}
 }
+
+/* Toggle the query params on the page links (query params are used instead of cookies) 
+ * addParam == True or False/undefined to add or remove params.
+**/
+function togglePageLinks(addParam) {
+	// select hyperlinks from specific nav areas (to avoid footer links)
+	let anchors = document.querySelectorAll('.front p a, .head-nav a, article a, .content-nav a, .site-nav a');
+	
+	Array.prototype.forEach.call(anchors, function (element, index) {
+		var href = element.href;
+
+		if (href) {
+			try {
+				var url = new URL(href);
+				
+				if (addParam) {
+					url.searchParams.set("calligraphic", "true");
+				} else {
+					url.searchParams.delete("calligraphic");
+				}
+
+				element.href = url.href;
+			} catch{}
+		}
+	});
+}
+
+/* Set link param state (instead of using cookies). */
+window.addEventListener("load", function(){
+	if (document.body.classList.contains('calligraphic')) {
+		console.log('page load - set to true');
+		togglePageLinks(true);
+	} else {
+		togglePageLinks(false);
+		console.log('page load - set to false');
+	}
+});
 </script>
+
 <style>
 	#change-font {
 		text-align: right;
 		color:  white;
 	}
 </style>
-<div id="change-font" onclick="toggle(this)">
+
+<div id="change-font" onclick="toggleBodyClass(this)">
 	<a href="#" >Change font</a>
 </div>
