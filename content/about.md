@@ -18,7 +18,7 @@ His late flowering as a writer is largely due to the friendly indulgence of form
 
 ##### This Digital Edition
 
-**Images:** Images created by [Andrew Leon Hudson](https://andrewleonhudson.wordpress.com/), using creative commons photpgraphy.
+**Images:** Images created by [Andrew Leon Hudson](https://andrewleonhudson.wordpress.com/) using creative commons photography. Many thanks to the source artists, [mzter](https://pixabay.com/photos/paper-certificate-grunge-antique-1217311/), [FWStudio](https://www.pexels.com/photo/brown-wooden-wall-168441/), and [Telstarboy](https://www.pexels.com/photo/books-on-wooden-surface-3622342/).
 
 **Theme:** Website theme is a modified version of the HugoCMS theme called [Paperback, by dashdashzako](https://themes.gohugo.io/paperback/).
 
