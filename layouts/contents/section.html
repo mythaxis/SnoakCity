@@ -10,7 +10,7 @@
       <a href="/"><span>Home</span></a> &larr;
     </nav>
   
-    <h1>{{ .Title }}</h1>
+    <h1>{{ .Title | markdownify }}</h1>
     
     {{ .Content }}
     
