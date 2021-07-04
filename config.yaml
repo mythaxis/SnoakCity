@@ -32,9 +32,6 @@ menu:
     - name: About
       url: /about.html
       weight: -7
-    - name: About
-      url: /about.html
-      weight: -6
   # Sources menu
   sources:
     - name: Mythaxis magazine
