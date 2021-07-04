@@ -18,8 +18,10 @@ His late flowering as a writer is largely due to the friendly indulgence of form
 
 ##### This Digital Edition
 
-**Images:** Images created by [Andrew Leon Hudson](https://andrewleonhudson.wordpress.com/) using creative commons photography. Many thanks to the source artists, [mzter](https://pixabay.com/photos/paper-certificate-grunge-antique-1217311/), [FWStudio](https://www.pexels.com/photo/brown-wooden-wall-168441/), and [Telstarboy](https://www.pexels.com/photo/books-on-wooden-surface-3622342/).
+**Images:** Images created by [Andrew Leon Hudson](https://andrewleonhudson.wordpress.com/) using creative commons photography. Many thanks to the source artists, [asmuSe](https://pixabay.com/photos/tianjin-sunset-city-aerial-view-2185510/), [mzter](https://pixabay.com/photos/paper-certificate-grunge-antique-1217311/), [FWStudio](https://www.pexels.com/photo/brown-wooden-wall-168441/), and [Telstarboy](https://www.pexels.com/photo/books-on-wooden-surface-3622342/).
 
 **Theme:** Website theme is a modified version of the HugoCMS theme called [Paperback, by dashdashzako](https://themes.gohugo.io/paperback/).
 
 **Fonts:** Frontpage book title is [Cantique, by Sébastien Hayez, Modified & contributed by Ariel Martín Pérez](https://velvetyne.fr/fonts/cantique/), from the [Velvetyne font Foundry](https://velvetyne.fr/), and the author name uses [Special Elite, designed by Astigmatic](https://fonts.google.com/specimen/Special+Elite). The website uses [Lucidia handwriting](https://www.cufonfonts.com/font/lucida-handwriting-std) from CUFON Fonts and the theme's default font [Arvo, by Anton Koovit](https://fonts.google.com/specimen/Arvo) from Google Webfonts.
+
+**Cookies:** This site uses Google Analytics (and necessary cookies) and a single custom cookie to preserve your font selection (which expires in 1 day).
