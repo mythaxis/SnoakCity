@@ -64,7 +64,7 @@ Not long after his arrival in Snoak, eager to sample urban culture, Strag had be
 
 
 
-> ### I Nightsparks
+> ### 1 Nightsparks
 >
 > *Buron knew they would still be following him. He had shaken off two of them; the inept pair on either side of the street whose air of studied indifference changed to consternation whenever their line of sight was obstructed by passing traffic or by other pedestrians. They did not anticipate his sudden sprint at a busy intersection, and consequently failed to see his running leap on to the far side of an accelerating westbound freight transporter, routed from Broskol to Deldorp. Settling down for a long ride in the gathering dusk Buron remembered to check the heavily-lined outer pocket of his coat, where his fingers gently explored the irregular contours of the device he had prised from the dead fist of Haptic Fabricator Hecht. Despite its insulating sheath he could already feel the intensifying heat it had begun to generate.*
 
@@ -118,8 +118,8 @@ Strag made rapid progress through the first four chapters. Scover Buron had temp
 
 In Chapter 5 (‘*Forge*’), Buron is working on ways to bring Hecht’s assassins to justice. He tries to ignore the faint high-pitched humming now emanating from the overheating device which he had gingerly deposited on the tiled bathroom floor of the safe-house. A quiet tap on the door signals the arrival of the technical expert sent to deal with problem. It is Sireen Thrist.
 
-> *There is no preamble.*
->
+There is no preamble.
+
 > *“Buron? Thrist. Let me see it.”*
 >
 > *She followed him to the bathroom, pulling on a pair of fine high-tech heatproof gloves. Scover watched in fascination as she donned her scanning visor and peered down at the object, making small adjustments to the visor’s depth control, pursing her lips thoughtfully. After a few moments she reached up behind her head with both hands to remove a stylishly glowing clasp, tossing her head to allow waves of dark silky hair to cascade around her shoulders. Scover felt his pulse quicken. This had nothing to do with any danger posed by the device. Outwardly maintaining his professional composure he waited to see what she would do next. Through the bathroom window, which he had opened in an attempt to lessen the increasing heat, he could hear someone whistling. The tune reminded him of his schooldays.*
@@ -132,7 +132,7 @@ In Chapter 5 (‘*Forge*’), Buron is working on ways to bring Hecht’s assass
 
 “I haven’t quite decided yet whether there’s any drink to be had!” Strag said. “Buron’s a seasoned agent, but he’s been under stress, and the resourceful Sireen obviously needs to unwind. I think I might allow them a bit of relaxation. Bear in mind that by this point Haldegath’s characters would already be sweaty and grunty.”
 
-“Like in *Glow Bright and the Humunculi*? suggested Yethne, feigning innocence. “I can never remember all their names.”
+“Like in *Glow Bright and the Homunculi*? suggested Yethne, feigning innocence. “I can never remember all their names.”
 
 “Crazy, Sleazy, Breezy and Queasy,” said Strag. “Not to mention Teasy,” he added pointedly, swivelling round to face her. “Now, Sireen Thrist is about to discover a half-bottle of a quite palatable liqueur in one of the kitchen cupboards, and despite her earlier abruptness, she will generously offer to share it with Scover. Will he accept, I wonder?”
 
